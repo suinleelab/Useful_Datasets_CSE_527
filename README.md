@@ -19,4 +19,4 @@ restrictions on data sharing for some datasets, you may need to download the
 files yourself from another source.
 
 Please reach out to the TAs with any questions! If you're looking for a specific
-kind of data but can't find it here, we're more than happy to help.
+kind of data but can't find it here, we're more than happy to help you find it.
