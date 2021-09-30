@@ -1,6 +1,6 @@
 # CSE 527 Data Portal
 
-Welcome to CSE 527 (Computational Biology)! To help everyone
+Welcome to [CSE 527 (Computational Biology)](https://sites.google.com/cs.washington.edu/cse527/home)! To help everyone
 brainstorm final project ideas, we've provided some sample
 datasets that have previously been used in high impact
 computational biology publications.
