@@ -8,10 +8,15 @@ computational biology publications.
 The repository is organized as follows: each top-level folder
 represents a data modality (e.g. gene expression data), with each
 subfolder corresponding to a specific dataset. Each dataset folder
-contains a single Jupyter notebook. This notebook provides a high
+contains a single Jupyter notebook. Jupyter is an interactive computing
+environment that allows you to run Python code in your browser and interact
+with the output of or code. See [here](https://jupyter.org/install.html) for
+instructions on how to install Jupyter and [here](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html)
+for instructions on how to run Jupyter after installation.
+
+For each dataset, the corresponding notebook provides a high
 level description of the dataset, and then walks through the process
 of downloading the dataset and performing any necessary preprocessing.
-
 Ideally, the notebooks are meant to encapsulate the _whole_ process of
 obtaining/cleaning the dataset (i.e., the notebook should download
 any files rather than forcing the use to do it externally). However, due to
