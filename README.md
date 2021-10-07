@@ -23,5 +23,14 @@ any files rather than forcing the use to do it externally). However, due to
 restrictions on data sharing for some datasets, you may need to download the
 files yourself from another source.
 
-Please reach out to the TAs with any questions! If you're looking for a specific
-kind of data but can't find it here, we're more than happy to point you in the right direction.
+Please reach out to the TAs with any questions! The initial datasets in the repository
+are datasets that the TAs are familiar with from previous research projects, and we'll
+be adding more over the next few days. If you're looking for a specific kind of data
+but can't find it here, please get in touch; we're more than happy to point you in the
+right direction.
+
+## Contributing
+
+If you already have data (e.g. from your own independent research) and are comfortable sharing
+it, you can earn participation points for the class by contributing your dataset to the repository.
+Please get in touch with the TAs for instructions on how to contribute.
