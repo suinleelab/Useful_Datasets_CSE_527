@@ -35,7 +35,6 @@ eICU is another publicly available EHR dataset. Same as MIMIC, uses would need t
 *mimic-cxr 
 This folder contains example code for Chest x-ray images [https://physionet.org/content/mimic-cxr/2.0.0/]
 
-
 Please reach out to the TAs with any questions! The initial datasets in the repository
 are datasets that the TAs are familiar with from previous research projects, and we'll
 be adding more over the next few days. If you're looking for a specific kind of data
