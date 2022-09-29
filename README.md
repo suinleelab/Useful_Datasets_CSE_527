@@ -26,16 +26,22 @@ any files rather than forcing the use to do it externally). However, due to
 restrictions on data sharing for some datasets, you may need to download the
 files yourself from another source.
 
-2. #### mimic-code
+2. #### Therapeutics Data Commons
+
+[TDC](https://github.com/mims-harvard/TDC) is an open-science platform with AI/ML-ready datasets and learning tasks for therapeutics, spanning the discovery and development of safe and effective medicines. TDC also provides an ecosystem of tools, libraries, leaderboards, and community resources, including data functions, strategies for systematic model evaluation, meaningful data splits, data processors, and molecule generation oracles. All resources are integrated and accessible via an open Python library.
+
+
+
+3. #### mimic-code
 
 This folder contains example script of how to use MIMIC-III, a freely-available electornic health record database comprising deidentified health-related data associated with over 40,000 patients who stayed in critical care units of the Beth Israel Deaconess Medical Center between 2001 and 2012. It will take few steps to obtain data access [here](https://mimic.mit.edu/docs/gettingstarted/) which will only take few days. 
 
 
-3. #### eICU-code
+4. #### eICU-code
 
 eICU is another publicly available EHR dataset. Same as MIMIC, uses would need to requesting access to the eICU Collaborative Research Database through [here](https://eicu-crd.mit.edu/gettingstarted/access/)
 
-4. #### mimic-cxr 
+5. #### mimic-cxr 
 
 This folder contains example code for Chest x-ray images [https://physionet.org/content/mimic-cxr/2.0.0/]
 
