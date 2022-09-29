@@ -26,13 +26,16 @@ restrictions on data sharing for some datasets, you may need to download the
 files yourself from another source.
 
 * mimic-code
+
 This folder contains example script of how to use MIMIC-III, a freely-available electornic health record database comprising deidentified health-related data associated with over 40,000 patients who stayed in critical care units of the Beth Israel Deaconess Medical Center between 2001 and 2012. It will take few steps to obtain data access [here](https://mimic.mit.edu/docs/gettingstarted/) which will only take few days. 
 
 
 * eICU-code
+
 eICU is another publicly available EHR dataset. Same as MIMIC, uses would need to requesting access to the eICU Collaborative Research Database through [here](https://eicu-crd.mit.edu/gettingstarted/access/)
 
 * mimic-cxr 
+
 This folder contains example code for Chest x-ray images [https://physionet.org/content/mimic-cxr/2.0.0/]
 
 Please reach out to the TAs with any questions! The initial datasets in the repository
