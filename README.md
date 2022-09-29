@@ -50,3 +50,7 @@ right direction.
 If you already have data (e.g. from your own independent research) and are comfortable sharing
 it, you can earn participation points for the class by contributing your dataset to the repository.
 Please get in touch with the TAs for instructions on how to contribute.
+
+## Contact
+
+Please go to [office hour](https://sites.google.com/cs.washington.edu/cse527/teaching-team) or contact TAs if you have any question. 
