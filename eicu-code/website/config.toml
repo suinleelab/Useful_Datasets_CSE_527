@@ -1,0 +1,42 @@
+languageCode = "en-us"
+title = "eICU Collaborative Research Database"
+theme = "eicu-data"
+baseurl = "https://eicu-crd.mit.edu"
+canonifyurls = "false"
+googleAnalytics = "UA-87592301-5"
+
+[[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-bullhorn'></i>"
+    weight = 1
+    url = "/about/"
+[[menu.main]]
+    name = "Getting started"
+    pre = "<i class='fa fa-road'></i>"
+    weight = 10
+    url = "/gettingstarted/"
+[[menu.main]]
+    name = "Tables in eICU-CRD"
+    pre = "<i class='fa fa-columns'></i>"
+    weight = 30
+    url = "/eicutables/"
+[[menu.main]]
+    name = "SchemaSpy"
+    pre = "<i class='fa fa-table'></i>"
+    weight = 40
+    url = "https://mit-lcp.github.io/eicu-schema-spy/"
+[[menu.main]]
+    name = "Community"
+    pre = "<i class='fa fa-group'></i>"
+    weight = 50
+    url = "/community/"
+[[menu.main]]
+    name = "Tutorials"
+    pre = "<i class='fa fa-cubes'></i>"
+    weight = 60
+    url = "/tutorials/"
+[[menu.main]]
+    name = "Help"
+    pre = "<i class='fa fa-life-ring'></i>"
+    weight = 70
+    url = "/help"
